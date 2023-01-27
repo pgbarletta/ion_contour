@@ -1,4 +1,6 @@
-# add ions on box margins
+add ions on box margins
+====
 
-### TODO:
+TODO:
+---
   - Add pdb2pqr to get the charge of the system.
